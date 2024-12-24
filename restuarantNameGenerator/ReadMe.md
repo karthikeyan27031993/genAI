@@ -27,13 +27,13 @@ A project leveraging a Language Learning Model (LLM) to generate creative restau
 
 ### Input:
 ```
-![Input](Input.PNG)
+![Input](./Input.PNG)
 
 ```
 
 ### Output:
 ```
-![Demo](Demo.gif)
+![Demo](./Demo.gif)
 
 ```
 
